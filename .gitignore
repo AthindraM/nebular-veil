@@ -1,0 +1,11 @@
+# SFML compile commands (local setup)
+compile_commands.json
+
+# Build artifacts
+*.o
+game
+
+# OS / editor files
+.DS_Store
+*.swp
+*.swo
